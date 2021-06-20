@@ -1,4 +1,28 @@
+
 <h1 align="center">holberton-smiling-school</h1>
+<!-- badges section with https://img.shields.io/ -->
+
+<span>
+  <img src="https://img.shields.io/badge/Specialization-webstack--frontend-green"/>
+</span>
+&nbsp;&nbsp;
+
+<span>
+  <img src="https://img.shields.io/badge/Training-Holberton-red"/>
+</span>
+&nbsp;&nbsp;
+
+<span>
+  <img src="https://img.shields.io/badge/Cohort%20%23-12-yellowgreen"/>
+</span>
+&nbsp;&nbsp;
+
+<span>
+  <img src="https://img.shields.io/badge/Directory-holberton--smiling--school-blue"/>
+</span>
+<br>
+<br>
+
 <p align="center">A page that remembers you to smile ;).</p><br>
 
 <p align="center">
